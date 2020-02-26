@@ -2,7 +2,7 @@
 
 Systemy kontroli wersji i bazujące na nich serwisy internetowe
 
-Metody pracy z repozytorium (na przykładzie Git Flow)
+Metody pracy z repozytorium (na przykładzie Git Flow) [KFA]
 
 Narzędzia do modelowania i prototypowania
 
